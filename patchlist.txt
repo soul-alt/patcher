@@ -5,3 +5,4 @@
 5 att05-04.gpf
 6 newmonster.gpf
 7 newboss.gpf
+8 sound.gpf
