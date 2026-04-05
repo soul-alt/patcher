@@ -3,3 +3,4 @@
 3 newatt.gpf
 4 newitens.rgz
 5 att05-04.gpf
+6 newmonster.gpf
