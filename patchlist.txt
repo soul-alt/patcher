@@ -6,5 +6,5 @@
 6 newmonster.gpf
 7 newboss.gpf
 8 sound.gpf
-9 newsound.gpf
+9 new.gpf
 10 att-09-04.rgz
