@@ -11,3 +11,4 @@
 11 newdescs.rgz
 12 new-hexed.rgz
 13 newdescsi.rgz
+14 newitem.rgz
