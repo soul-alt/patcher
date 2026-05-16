@@ -14,3 +14,4 @@
 14 newitem.rgz
 15 newatt0605.rgz
 16 newmarket.gpf
+17 newdescription.rgz
